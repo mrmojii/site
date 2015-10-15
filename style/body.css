@@ -1,26 +1,4 @@
 ﻿.body_class1{
-	background: url(images/swamp1.png) no-repeat center center fixed; 
-}
-.body_class2{
-	background: url(images/swamp2.png) no-repeat center center fixed; 
-}
-.body_class3{
-	background: url(images/swamp3.png) no-repeat center center fixed; 
-}
-.body_class4{
-	background: url(images/swamp4.png) no-repeat center center fixed; 
-}
-.body_class5{
-	background: url(images/swamp5.png) no-repeat center center fixed; 
-}
-.body_class6{
-	background: url(images/swamp6.png) no-repeat center center fixed; 
-}
-.body_class7{
-	background: url(images/swamp7.png) no-repeat center center fixed; 
-}
-.body_class8{
-	background: url(images/swamp8.png) no-repeat center center fixed; 
 }
 .body_class0 { 
 	-webkit-background-size: cover;
