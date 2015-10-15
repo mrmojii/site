@@ -1,4 +1,30 @@
-﻿.div_container_main{
+﻿body{
+	margin:0;
+}
+.div_container_main{
 	width:100%;
 	height:100%;
+}
+.div_container_top_menu{
+	width:100%;
+	height:50px;
+	background: #383;
+	opacity:0.8;
+}
+.div_container_body{
+	width:100%;
+	height:auto;
+}
+.div_aftermenu_empty{
+	height:50px;
+	width:100%;
+	/*border:3px solid black;*/
+}
+.div_body_main{
+	width:25%;
+	height:500px;
+	background: #383;
+	opacity:0.8;
+	margin-left:10%;
+	border-radius:7px;
 }
