@@ -1,5 +1,6 @@
 ﻿body{
 	margin:0;
+	color:white;
 }
 .div_container_main{
 	width:100%;
@@ -27,4 +28,22 @@
 	opacity:0.8;
 	margin-left:10%;
 	border-radius:7px;
+	float:left;
+}
+.block_header{
+	width:91%;
+	margin-left:3%;
+	height:40px;
+	border-radius:6px;
+	background: #171;
+	position:relative;
+	top:5px;
+	text-align:center;
+	vertical-align:middle;
+	line-height:40px;
+	font-size: 18px;
+}
+.block_main{
+	margin-top:10px;
+	margin-left:10px;
 }
